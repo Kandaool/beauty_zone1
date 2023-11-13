@@ -1,0 +1,47 @@
+a{
+    text-decoration: none;
+/* justify-content: space-between; */
+}
+
+a:hover{
+  color: red;
+}
+.navigation{
+        list-style-type: none;
+                    display: inline-flex;
+                    align-items: center;
+                        gap: 80px;
+}
+.lists{
+                        justify-content: space-around;
+}
+iframe{
+    border-radius: 32px;
+}
+h1,h2{
+    font-family: 'Lato', sans-serif;
+        font-family: 'Poppins', sans-serif;
+}
+p,li{
+    font-family: 'Lato', sans-serif;
+        font-family: 'Poppins', sans-serif;
+}
+span{
+    color: #2B7FFF;
+ 
+}
+.Beauty{
+    font-size: 140px;
+}
+footer{
+    background-color: #011F4A;
+}
+.button_call{
+    color: white;
+    background-color: #2B7FFF;
+    border-radius: 8px;
+}
+.button_call:hover{
+    color: black;
+        background-color: white;
+}
